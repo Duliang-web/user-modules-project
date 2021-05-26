@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/user-core-module/user-core-module.iml" filepath="$PROJECT_DIR$/user-core-module/user-core-module.iml" />
       <module fileurl="file://$PROJECT_DIR$/user-hessian-module/user-hessian-module.iml" filepath="$PROJECT_DIR$/user-hessian-module/user-hessian-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-test-module/user-test-module.iml" filepath="$PROJECT_DIR$/user-test-module/user-test-module.iml" />
     </modules>
   </component>
 </project>
